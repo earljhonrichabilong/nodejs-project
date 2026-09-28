@@ -7,4 +7,4 @@ function checkVotingEligibility(age) {
 }
 
 // Example usage:
-console.log(checkVotingEligibility(20));
+console.log(checkVotingEligibility(20)
