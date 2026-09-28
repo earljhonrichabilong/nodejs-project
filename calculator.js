@@ -32,4 +32,4 @@ function runCalculator() {
     console.log(`${num1} / 0 = ${Calculator.divide(num1, 0)}`);
 }
 
-runCalculator();
+runCalculator()
